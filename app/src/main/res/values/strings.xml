@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seccion2Ejemplo2</string>
+    <string name="login_email">Ingrese su correo</string>
+    <string name="login_password">Ingrese su contraseña</string>
+</resources>
